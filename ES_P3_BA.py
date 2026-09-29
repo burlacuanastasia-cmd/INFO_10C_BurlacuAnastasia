@@ -1,0 +1,5 @@
+a=int(input("alege cantitatea a"))
+b=int(input("alege cantitatea b"))
+c=int(input("alege cantitatea c"))
+d=int(input("alege cantitatea d"))
+print((a+b+c+d)*7)
